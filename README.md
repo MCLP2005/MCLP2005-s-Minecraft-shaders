@@ -1,6 +1,6 @@
 **MCLP2005's shader pack**
 
-[Go to the official page](mclp2005.github.io)
+[Go to the official page](https://mclp2005.github.io)
 
 MCLP2005's shader pack is a shader for the Minecraft Opftifine modification.
 
